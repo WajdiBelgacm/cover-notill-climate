@@ -2,7 +2,7 @@
 
 This repository contains code used to construct a county-year panel of cover crop and no-till outcomes merged with annual climate, SPEI drought/wetness, and non-frost-day measures for 458 counties from 2005–2018.
 
-The purpose of this repository is to document the data-processing workflow and make the code reproducible. The final cleaned dataset is not currently uploaded and can be shared upon request, subject to coauthor approval.
+The purpose of this repository is to document the data-processing workflow and make the code reproducible. The final cleaned dataset is not currently uploaded and can be shared upon reasonable request.
 
 ## Repository structure
 
@@ -29,7 +29,7 @@ The scripts are numbered in the order they should be run:
 
 ## Data availability
 
-The final cleaned dataset is not currently included in this repository. It may be made available upon reasonable request, subject to coauthor approval.
+The final cleaned dataset is not currently included in this repository. It may be made available upon reasonable request.
 
 Large raw climate files, NetCDF files, GeoTIFF files, and intermediate processing files are not uploaded to GitHub. Users should download the raw data from the original public sources and run the scripts in order.
 
